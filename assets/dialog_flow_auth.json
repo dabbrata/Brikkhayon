@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "brikkhayonflutterbot-ntpu",
+  "private_key_id": "a53315561180f02d8c3fc67eead237b8590cb73b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDQw8AUcveO0u81\n6NaCdYNWLyRBrqlfsKS6y80i1g123Un5+ONlUm2R13ixqKjMc9Lc6qG3c7o+rd/P\nz5np1jhkKq8+F1jCZkb4nAKpqXvFlMWG0i0FBhETbsRvcncSRlw3cIjnnXOwTDdq\n4Q/MXkLnE1L7XCMVo6bJul2e1WzV2ruOoAC6QDE/9skEDY6v9Tss52UnNEZDGPQZ\nkd1RW3byndRA3GtPhSYFMzXZdgVI0/F1IUoBsxVWNacKvtWW1ETe2cLiz7CS6RQH\nCiN3FqgY8+4cJKqaI0LHIj3Qt4QQyPHTk4AM0J5cJTN6KgoorD3JLglzK23x1Dwz\nAARtE+YLAgMBAAECggEACJnH9A+4ez3ddQ8ep0lIG+jdSYd0muigIMH8tY60B02e\nmpnSZH483WFPK6KTMbkj2s4f03sFFUf8jIc1BBk7QYUwqxIzKe8kxWFICs1cuAsl\nCCTojehuE6rglObWWP5lFjOgsEogVgcN0W1sRTMs9nApXwmwuFeBq5Xt/Xk1fqnt\nKhiP8n5FqJaesJJRAcU1ZnozOnkIVjmi185qfT7ROzqyuWxx2AJeF1KLIsBuRRZv\nP2bkpQkhnQ8uwt6Op4BB4VJ19Fb3rkFMBCsZ0AaFAABZCK4fFK7i5luNasxK0yT7\ncsU0IhpgTa3N83yFSn8J/GDjxlRBI/KC4NTlXPxmYQKBgQD7uYMMCEoZd3bN+/5M\nkhgXVipgjtZv1OhUS3ea+26SVuIg7n0PZM8DIHUxeOmDAE46LqHrFsmZKjVeccBI\nHfJA/k3iodHU1Cd03jK5oikhkHvknKIVxeqUjDLdJUWJGG62aCi+/snDnQi1hMdp\nI8uHdxiTQSMB0SIU9hcvPUYudwKBgQDUT3M7tMjyWDZ5BbBLNe0lw9AyzQ8Qhwiz\nY8plo4y0oKuWG3Vs8MJz5Q+0OwsVq9JLZEGMDmTfVIGgxT4fq86KvmF3sSo60sOu\nkfrgPlSWORNva95igDf2K+lUsJfAnhtoky1rB1dolZJ6CyXfsKajyst92szt0LSK\nSXJLt2lGDQKBgBA3bUfTKOLnHVI7z7AjIUYvmN9LlGjz8Fut2PC1DfSDgGHau1fI\niMWMy7/6KCD2XhPFeUzp1Ob3HyUMcvSyaS7isyXMgvYRDNGsltv6pGezJSgfJxn7\n/BbByW0Rv58LYeaCY02aoGjnru3ytd4CHlSFyaGC6rxtOqLbD7dNXT4VAoGADq5/\n1X0m+DtJaQ0Pp+POxnHID/tGM2pjG6Sm9mhc7pC9zN+ROzta9xC8CUab+Z+sJzKD\npd/I8fiyDiAVr7L90XJg4xoJRZAVoBjQNHma99hyk53t/vnG5Oscc5LSq6tDUfP7\njA8x6DWPr4jd0Z4xp9n6QHXE/h0Unwt9L+c7DHECgYA0LmLRWzijZgT6kW8Hmvhy\n8zyvztf5M9ViT5D2QviYRF0wUE8MV2Z4bR27P2vkFNzcYdF1y2c5oE3SHp5kgh9S\ndtal9PhGcfJ8tmivCdOyBMJwmQr57J/2+D2GSUwZ+A4oswOTF+UDW2KzAWnIfJb0\nOLeK17WcXcP/eLr/4SHsBA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "brikkhayonbot@brikkhayonflutterbot-ntpu.iam.gserviceaccount.com",
+  "client_id": "100479753153213971113",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/brikkhayonbot%40brikkhayonflutterbot-ntpu.iam.gserviceaccount.com"
+}

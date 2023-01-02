@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">brikkhayon</string>
+    <string name="facebook_app_id">1210701486468861</string>
+    <string name="fb_login_protocol_scheme">fb1210701486468861</string>
+    <string name="facebook_client_token">fb000b5b46541e007c42ab5bb4bf67e9</string>
+</resources>
